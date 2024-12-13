@@ -3,7 +3,7 @@ from telebot.types import Message, ReplyKeyboardRemove
 from keyboards import *
 import requests
 
-TOKEN = '7109029889:AAFmLi5BPJWcVuo4DzziSUzg3_h2GLIivgE'
+TOKEN = 'buyoga o'zingiizni telegram bot tokenilarni qo'yasizlar'
 
 bot = TeleBot(TOKEN)
 
